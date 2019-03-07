@@ -1,0 +1,22 @@
+body{
+	/*background-color: cyan;*/ 
+	background-image:url(../image/background_image.jpg);
+}
+
+.centrage{
+margin:auto;
+text-align:center
+}
+.couleur{
+color:#1A4A07;
+font-weight:600;
+}
+
+.picture{
+	margin: auto;
+	margin-top:10px;
+	width:200px;
+}
+
+#color{background-color: yellow;
+}
