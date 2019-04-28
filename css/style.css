@@ -18,5 +18,10 @@ font-weight:600;
 	width:200px;
 }
 
+.video{
+	width:320px; 
+	height:240; 
+}
+
 #color{background-color: yellow;
 }
